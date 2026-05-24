@@ -6,6 +6,9 @@ Latihan membuat aplikasi sederhana mulai dari
 2. Crud data jurusan.
 3. Crud data mahasiswa.
 
+   Note:
+   Totorial langkah2 membuat aplikasi ini dapat dilihat pada file: Tutorial.doc yang ada pada project ini.
+
 <img width="2643" height="899" alt="image" src="https://github.com/user-attachments/assets/6aeaf0d3-3849-4ea7-8aa3-3de17d9ce496" />
 
 <img width="2626" height="837" alt="image" src="https://github.com/user-attachments/assets/668ed956-4416-4632-881d-4a8e2c5687de" />
