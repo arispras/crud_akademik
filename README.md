@@ -1,5 +1,6 @@
 # crud_akademik
 Projek Latihan CRUD dengan Framework Laravel 
+by: arispras@gmail.com
 
 Latihan membuat aplikasi sederhana mulai dari 
 1. Login dengan laravel Auth + Bootstrap tanpa Laravel Mix.  
