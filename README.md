@@ -7,7 +7,8 @@ Latihan membuat aplikasi sederhana mulai dari
 3. Crud data mahasiswa.
 
    Note:
-   Totorial langkah2 membuat aplikasi ini dapat dilihat pada file: Tutorial.doc yang ada pada project ini.
+   Totorial langkah2 membuat aplikasi ini dapat dilihat pada file: Tutorial.docx yang ada pada project ini.
+   Database di dump pada file akademiksaintek.sql   
 
 <img width="2643" height="899" alt="image" src="https://github.com/user-attachments/assets/6aeaf0d3-3849-4ea7-8aa3-3de17d9ce496" />
 
