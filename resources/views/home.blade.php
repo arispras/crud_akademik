@@ -14,7 +14,8 @@
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    {{ __('Anda telah login!') }}
+                    <p>Selamat datang di aplikasi Akademik! Di sini Anda dapat membuat dan mengelola data akademik Anda dengan mudah. Gunakan menu di atas untuk mulai menambahkan Data baru </p>
                 </div>
             </div>
         </div>
